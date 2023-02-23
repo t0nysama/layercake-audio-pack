@@ -1,0 +1,10 @@
+{
+  "name": "Layer Cake",
+  "description": "This is the airsoft gun shop theme from persona 5",
+  "author": "t0nysama",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
